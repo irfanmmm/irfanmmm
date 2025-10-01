@@ -16,13 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanmmm&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanmmm&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-irfan-69a7012a0/)  
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:muhamed.irfan.t@gmail.com)  
