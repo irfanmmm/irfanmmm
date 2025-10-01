@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Irfan  
 
-🚀 **Full Stack Developer | MERN & React Native**  
+🚀 **Full Stack Developer | MERN | Python & React Native**  
 💻 Passionate about building **scalable web & mobile apps**  
 ⚡ Experienced in **Fintech, HR, and E-commerce solutions**  
 🌍 Open to opportunities in **India & GCC countries**  
