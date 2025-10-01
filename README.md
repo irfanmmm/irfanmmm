@@ -25,8 +25,7 @@
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-irfan-69a7012a0/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:muhamed.irfan.t@gmail.com)  
 
 ---
 ✨ *“Code. Debug. Build. Repeat.”* ✨
